@@ -1,0 +1,39 @@
+
+
+body{
+    background-color: rgb(50, 68, 50);
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    
+}
+
+
+html{
+    
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+
+
+.img1 {
+    float: left;
+    margin: 10px;
+}
+
+.img2 {
+    float: right;
+    margin: 10px;
+}
+
+.img3{
+    float: left;
+    margin: 10px;
+}
+
+
+p {
+    padding: 6px;
+}
